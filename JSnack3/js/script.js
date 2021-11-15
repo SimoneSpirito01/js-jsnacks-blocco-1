@@ -7,3 +7,8 @@ while (potenza < 1000){
     potenza *= 2;
 }
 
+// for (let i = 0; i < 1000; i++){
+//     potenza *= 2;
+//     console.log(i + 1 , potenza);
+// }
+
