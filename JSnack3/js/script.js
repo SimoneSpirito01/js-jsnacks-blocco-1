@@ -3,7 +3,7 @@
 let potenza = 2;
 
 while (potenza < 1000){
-    console.log(potenza)
+    console.log(potenza);
     potenza *= 2;
 }
 
